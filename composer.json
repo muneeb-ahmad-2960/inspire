@@ -1,0 +1,17 @@
+{
+    "name": "muneeb/inspire",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Muneeb\\Inspire\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Muneeb Ahmad"
+        }
+    ],
+    "require": {
+        "guzzlehttp/guzzle": "^7.0.1"
+    }
+}
